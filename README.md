@@ -11,14 +11,19 @@ This project enables real-time recognition of ASL alphabet signs (A-Z) through w
   
 **Real-Time Recognition**
 <img width="801" height="636" alt="image" src="https://github.com/user-attachments/assets/85570de8-ab3c-4e16-93b6-359b4d5fa68d" />
+
 Live webcam feed with hand tracking and letter prediction
+
 **Hand Landmark Detection**
 <img width="304" height="284" alt="image" src="https://github.com/user-attachments/assets/1f781778-7ad4-4e44-9594-b0711cabc2b9" />
+
 MediaPipe detecting 21 hand keypoints
+
 **Multiple Gestures**
 <img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/d3ee5c99-d72c-4afb-b9d9-e375e88cec80" />
 <img width="799" height="633" alt="image" src="https://github.com/user-attachments/assets/68dfbd07-5504-4c4e-a45d-b0d3150259d8" />
 <img width="795" height="632" alt="image" src="https://github.com/user-attachments/assets/9bdeaeb1-94b3-4be5-8aff-d6b2f321be04" />
+
 Examples of different ASL letters being recognized
 </div>
 
