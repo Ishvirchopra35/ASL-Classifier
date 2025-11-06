@@ -251,7 +251,7 @@ This project is open source and available for educational purposes.
 
 ---
 
-**Author**: Ishvir Singh Chopra
+**Author**: Ishvir Singh Chopra  
 **Date**: 05 Nov 2025  
 **Contact**: ishvir.chopra@gmail.com  
 **Demo**: Video coming soon!
