@@ -6,6 +6,26 @@ A computer vision system that recognizes American Sign Language (ASL) alphabet g
 
 This project enables real-time recognition of ASL alphabet signs (A-Z) through webcam input. Using MediaPipe for hand tracking and a Random Forest classifier, the system can identify hand gestures with high accuracy, making it useful for learning ASL or building accessibility applications.
 
+📸 Screenshots
+<div align="center">
+Real-Time Recognition
+<img width="607" height="425" alt="image" src="https://github.com/user-attachments/assets/8d66cfc0-980c-422c-9ba2-a92ce1caf744" />
+Live webcam feed with hand tracking and letter prediction
+Hand Landmark Detection
+Show Image
+MediaPipe detecting 21 hand keypoints
+Multiple Gestures
+Show Image
+Examples of different ASL letters being recognized
+Data Collection
+Show Image
+Training data collection interface
+Prediction with Confidence
+Show Image
+Bounding box with predicted letter displayed
+</div>
+
+
 ## Features
 
 - **Real-Time Recognition**: Processes webcam feed at interactive frame rates
@@ -227,6 +247,7 @@ This project is open source and available for educational purposes.
 ---
 
 **Author**: Ishvir Singh Chopra
+
 **Date**: 05 Nov 2025  
 **Contact**: ishvir.chopra@gmail.com  
 **Demo**: Video coming soon!
